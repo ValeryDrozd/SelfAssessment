@@ -13,7 +13,7 @@
   - Concurrent computing: 🙋 explained
   - Asynchronous programming: 🙋 explained
   - Parallel programming: 🙋 explained
-  - Reactive programming: 🎓 known
+  - Reactive programming: 🙋 explained
   - Functional-reactive (FRP): 🙋 explained
   - Automata-based programming: 🎓 known
   - Domain-specific languages: 🎓 known

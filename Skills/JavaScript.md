@@ -103,12 +103,12 @@
   - `RegExp`: 🙋 explained
   - `Date`: 🙋 explained
   - `Math`: 🙋 explained
-  - `Reflect`: 🎓 known
+  - `Reflect`: 🖐️ used
   - `Error`: 🙋 explained
-  - `Atomics`: 🎓 known
+  - `Atomics`: 🖐️ used
   - `JSON`: 🙋 explained
-  - `WeakRef`: 🎓 known
-  - `FinalizationRegistry`: 🎓 known
+  - `WeakRef`: 🖐️ used
+  - `FinalizationRegistry`: 🖐️ used
   - `Intl`: 🖐️ used
   - `Promise`: 🙋 explained
   - `console`: 🙋 explained

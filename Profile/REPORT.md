@@ -73,28 +73,25 @@ Total: you have `72` of `72` skills, `0` to be upgraded, and `71` above needed
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `98` of `98` skills, `0` to be upgraded, and `91` above needed
+Total: you have `98` of `98` skills, `0` to be upgraded, and `92` above needed
 
 ## [Async](/Skills/Async.md)
 
 
 | For Node.js applied programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Signal | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `49` of `50` skills, `1` to be upgraded, and `46` above needed
+Total: you have `50` of `50` skills, `0` to be upgraded, and `46` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `37` of `37` skills, `0` to be upgraded, and `35` above needed
+Total: you have `37` of `37` skills, `0` to be upgraded, and `36` above needed
 
 | For Node.js platform/system programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Signal | 🎓 known | ⟶  | 🖐️ used |
-| Semaphore | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `73` of `75` skills, `2` to be upgraded, and `49` above needed
+Total: you have `75` of `75` skills, `0` to be upgraded, and `49` above needed
 
 ## [NodeJS](/Skills/NodeJS.md)
 
