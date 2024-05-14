@@ -35,30 +35,30 @@
 - Internal API
   - Streams API: 🖐️ used
   - Web Streams API: 🖐️ used
-  - Crypto API: 🎓 known
-  - Password hashing with crypto.scrypt: 🎓 known
-  - Web Crypto API: 🎓 known
+  - Crypto API u
+  - Password hashing with crypto.scrypt u
+  - Web Crypto API u
   - File system API (sync and async): 🖐️ used
   - Copy folder recursively: 🖐️ used
-  - Worker threads: 🎓 known
-  - Performance hooks: 🎓 known
+  - Worker threads u
+  - Performance hooks u
   - Native fetch and nodejs/undici: 🖐️ used
   - async_hooks: 🖐️ used
   - AsyncLocalStorage: 🖐️ used
   - AsyncResource: 🖐️ used
   - Deprecated domain API: 🖐️ used
   - Node.js single executable: 🖐️ used
-  - SharedArrayBuffer: 🎓 known
-  - Module `node:worker_threads`: 🎓 known
-  - Module `node:child_process`: 🎓 known
-  - MessageChannel, MessagePort: 🎓 known
-  - BroadcastChannel: 🎓 known
-  - Generating crypto random UUID: 🎓 known
-  - Module `node:url` vs `new URL`: 🎓 known
-  - Module `node:assert`: 🎓 known
-  - Internationalization: 🎓 known
-  - Blob, File, Buffer, module `node:buffer`: 🎓 known
-  - Module `node:zlib`: 🎓 known
+  - SharedArrayBuffer u
+  - Module `node:worker_threads` u
+  - Module `node:child_process` u
+  - MessageChannel, MessagePort u
+  - BroadcastChannel u
+  - Generating crypto random UUID u
+  - Module `node:url` vs `new URL` u
+  - Module `node:assert` u
+  - Internationalization u
+  - Blob, File, Buffer, module `node:buffer` u
+  - Module `node:zlib` u
 - Network
   - Endpoint throttling: 🎓 known
   - ALPN: 🎓 known

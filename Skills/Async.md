@@ -35,7 +35,7 @@
   - Event: 🙋 explained
   - Coroutine: 🎓 known
   - Goroutine: 🎓 known
-  - Signal: 🎓 known
+  - Signal u
   - Stream: 🙋 explained
   - Chain of responsibility: 🙋 explained
   - Middleware: 🙋 explained
@@ -55,7 +55,7 @@
   - Async Pool: 🖐️ used
   - Async Queue: 🖐️ used
   - Async Collector: 🖐️ used
-  - Semaphore: 🎓 known
+  - Semaphore u
   - Mutex: 🎓 known
   - Spin Lock: 🎓 known
 - JavaScript & Node.js specific
@@ -77,8 +77,8 @@
   - AsyncLocalStorage: 🖐️ used
   - AsyncResource: 🖐️ used
 - Techniques
-  - Async.js library: 🎓 known
-  - RxJS library: 🎓 known
+  - Async.js library u
+  - RxJS library u
   - Promise.all: 🙋 explained
   - Promise.allSettled: 🙋 explained
   - Promise.race: 🙋 explained
