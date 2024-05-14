@@ -1,128 +1,128 @@
 ## .NET
 
 - Core Concepts and Internals
-  - Strengths and weaknesses of .NET k
-  - Stateful and stateless services k
-  - Asynchronous and synchronous programming k
-  - Task-based asynchronous pattern k
-  - Garbage collection in .NET k
-  - .NET runtime versions and support k
-  - I/O-bound, CPU-bound tasks k
-  - Real-time applications with SignalR k
+  - Strengths and weaknesses of .NET: 🎓 known
+  - Stateful and stateless services: 🎓 known
+  - Asynchronous and synchronous programming: 🎓 known
+  - Task-based asynchronous pattern: 🎓 known
+  - Garbage collection in .NET: 🎓 known
+  - .NET runtime versions and support: 🎓 known
+  - I/O-bound, CPU-bound tasks: 🎓 known
+  - Real-time applications with SignalR: 🎓 known
 - Modularity and Dependencies
-  - .NET assemblies k
-  - NuGet package management k
-  - Dependency management in .NET k
-  - Dependency Injection in .NET k
-  - Inversion of Control (IoC) k
-  - IoC containers in .NET k
-  - Middleware and pipeline configuration k
-  - Modular applications k
+  - .NET assemblies: 🎓 known
+  - NuGet package management: 🎓 known
+  - Dependency management in .NET: 🎓 known
+  - Dependency Injection in .NET: 🎓 known
+  - Inversion of Control (IoC): 🎓 known
+  - IoC containers in .NET: 🎓 known
+  - Middleware and pipeline configuration: 🎓 known
+  - Modular applications: 🎓 known
 - Environment and Tools
-  - Command line interface (CLI) tools k
-  - .NET CLI k
-  - Windows Services and Linux Daemons k
-  - kosting and Deployment models k
-  - IIS and Kestrel web server k
-  - Environment variables and configuration k
-  - File system I/O operations k
-  - Multithreading with Task Parallel Library (TPL) k
-  - Performance monitoring and diagnostics k
+  - Command line interface (CLI) tools: 🎓 known
+  - .NET CLI: 🎓 known
+  - Windows Services and Linux Daemons: 🎓 known
+  - kosting and Deployment models: 🎓 known
+  - IIS and Kestrel web server: 🎓 known
+  - Environment variables and configuration: 🎓 known
+  - File system I/O operations: 🎓 known
+  - Multithreading with Task Parallel Library (TPL): 🎓 known
+  - Performance monitoring and diagnostics: 🎓 known
 - APIs and Framework Features
-  - LINQ k
-  - SignalR for real-time web functionality k
-  - kigh-performance RPC with `gRPC` k
-  - Security features (authentication, authorization) k
-  - Cryptography and secure data kandling k
-  - Memory and resource management k
-  - Globalization and localization k
+  - LINQ: 🎓 known
+  - SignalR for real-time web functionality: 🎓 known
+  - kigh-performance RPC with `gRPC`: 🎓 known
+  - Security features (authentication, authorization): 🎓 known
+  - Cryptography and secure data kandling: 🎓 known
+  - Memory and resource management: 🎓 known
+  - Globalization and localization: 🎓 known
 - Network and Protocols
-  - kTTP/HTTPS support k
-  - WebSockets for real-time communication k
-  - TCP/UDP networking k
-  - SSL/TLS for secure connections k
-  - Efficient network communication with `gRPC` k
-  - kTTP/2 and kTTP/3 support k
-  - Network security (DDoS, XSS, CSRF prevention) k
-  - Serialization and deserialization (JSON, XML) k
+  - kTTP/HTTPS support: 🎓 known
+  - WebSockets for real-time communication: 🎓 known
+  - TCP/UDP networking: 🎓 known
+  - SSL/TLS for secure connections: 🎓 known
+  - Efficient network communication with `gRPC`: 🎓 known
+  - kTTP/2 and kTTP/3 support: 🎓 known
+  - Network security (DDoS, XSS, CSRF prevention): 🎓 known
+  - Serialization and deserialization (JSON, XML): 🎓 known
 - Testing and Debugging
-  - knit testing with frameworks like xUnit, NUnit k
-  - Integration testing k
-  - Logging and tracing k
-  - Application monitoring and telemetry k
-  - Debugging tools and strategies k
-  - Performance profiling and analysis k
+  - knit testing with frameworks like xUnit, NUnit: 🎓 known
+  - Integration testing: 🎓 known
+  - Logging and tracing: 🎓 known
+  - Application monitoring and telemetry: 🎓 known
+  - Debugging tools and strategies: 🎓 known
+  - Performance profiling and analysis: 🎓 known
 - Data Access and ORM
-  - Entity Framework Core k
-  - Dapper k
-  - ADO.NET for database access k
-  - Data modeling and migration k
-  - Repository and knit of Work patterns k
-  - CRUD operations k
+  - Entity Framework Core: 🎓 known
+  - Dapper: 🎓 known
+  - ADO.NET for database access: 🎓 known
+  - Data modeling and migration: 🎓 known
+  - Repository and knit of Work patterns: 🎓 known
+  - CRUD operations: 🎓 known
 - Error kandling and Debugging
-  - Exception kandling in .NET k
-  - Custom error classes k
-  - Debugging and diagnostic tools k
-  - Profiling and performance analysis k
-  - Memory leak detection k
+  - Exception kandling in .NET: 🎓 known
+  - Custom error classes: 🎓 known
+  - Debugging and diagnostic tools: 🎓 known
+  - Profiling and performance analysis: 🎓 known
+  - Memory leak detection: 🎓 known
 - Integration and Extensibility
-  - Interoperability with native libraries h
-  - P/Invoke for calling `C/C++` libraries h
-  - COM interop h
-  - .NET for `WebAssembly` h
-  - Custom middleware development h
+  - Interoperability with native libraries: 👂 heard
+  - P/Invoke for calling `C/C++` libraries: 👂 heard
+  - COM interop: 👂 heard
+  - .NET for `WebAssembly`: 👂 heard
+  - Custom middleware development: 👂 heard
 - Cloud and Microservices
-  - Integration with cloud platforms (Azure, AWS) k
-  - Microservices architecture k
-  - Containerization with Docker k
-  - Kubernetes for orchestration k
-  - Serverless computing k
+  - Integration with cloud platforms (Azure, AWS): 🎓 known
+  - Microservices architecture: 🎓 known
+  - Containerization with Docker: 🎓 known
+  - Kubernetes for orchestration: 🎓 known
+  - Serverless computing: 🎓 known
 - C# Development
-  - C# syntax and language fundamentals k
-  - Advanced C# features (LINQ, async/await, delegates, events) k
-  - Reflection and dynamic programming k
-  - Data types and collections k
-  - Generics and extension methods k
-  - Attributes and annotations k
-  - Interoperability with other .NET languages k
+  - C# syntax and language fundamentals: 🎓 known
+  - Advanced C# features (LINQ, async/await, delegates, events): 🎓 known
+  - Reflection and dynamic programming: 🎓 known
+  - Data types and collections: 🎓 known
+  - Generics and extension methods: 🎓 known
+  - Attributes and annotations: 🎓 known
+  - Interoperability with other .NET languages: 🎓 known
 - `F#` Development
-  - `F#` syntax and language fundamentals h
-  - Immutable data structures h
-  - Pattern matching and discriminated knions h
-  - Functional-first design and development h
-  - Type providers and metaprogramming h
-  - Asynchronous and parallel programming h
-  - ksing .NET libraries in `F#` h
-  - Building web applications with F# and Giraffe or Saturn h
-  - Testing with `FsUnit` h
+  - `F#` syntax and language fundamentals: 👂 heard
+  - Immutable data structures: 👂 heard
+  - Pattern matching and discriminated knions: 👂 heard
+  - Functional-first design and development: 👂 heard
+  - Type providers and metaprogramming: 👂 heard
+  - Asynchronous and parallel programming: 👂 heard
+  - ksing .NET libraries in `F#`: 👂 heard
+  - Building web applications with F# and Giraffe or Saturn: 👂 heard
+  - Testing with `FsUnit`: 👂 heard
 - VB.NET Development
-  - VB.NET syntax and language fundamentals h
-  - Event-driven programming h
-  - COM interop and P/Invoke h
-  - XML and file kandling h
-  - Office automation and VSTO h
-  - Migration strategies for legacy VB6 applications h
+  - VB.NET syntax and language fundamentals: 👂 heard
+  - Event-driven programming: 👂 heard
+  - COM interop and P/Invoke: 👂 heard
+  - XML and file kandling: 👂 heard
+  - Office automation and VSTO: 👂 heard
+  - Migration strategies for legacy VB6 applications: 👂 heard
 - C++/CLI Development Development
-  - C++ syntax and language fundamentals k
-  - Interoperability between managed (.NET) and knmanaged (native) code k
-  - Memory management in mixed environments k
-  - `C++/CLI` syntax and ksage k
-  - Accessing .NET Framework classes in `C++` k
-  - Writing performance-critical modules k
-  - Interfacing with native libraries and APIs k
-  - Developing custom .NET libraries in `C++` k
-  - Managing resource disposal and finalization k
-  - Creating and consuming DLLs (Dynamic Link Libraries) k
-  - Working with Windows API k
-  - Migration of legacy `C++` code to .NET k
-  - Enhancing existing .NET applications with `C++/CLI` k
+  - C++ syntax and language fundamentals: 🎓 known
+  - Interoperability between managed (.NET) and knmanaged (native) code: 🎓 known
+  - Memory management in mixed environments: 🎓 known
+  - `C++/CLI` syntax and ksage: 🎓 known
+  - Accessing .NET Framework classes in `C++`: 🎓 known
+  - Writing performance-critical modules: 🎓 known
+  - Interfacing with native libraries and APIs: 🎓 known
+  - Developing custom .NET libraries in `C++`: 🎓 known
+  - Managing resource disposal and finalization: 🎓 known
+  - Creating and consuming DLLs (Dynamic Link Libraries): 🎓 known
+  - Working with Windows API: 🎓 known
+  - Migration of legacy `C++` code to .NET: 🎓 known
+  - Enhancing existing .NET applications with `C++/CLI`: 🎓 known
 - Mobile development
-  - .NET MAUI / Xamarin k
-  - Interoperability between managed code and iOS/Android API k
+  - .NET MAUI / Xamarin: 🎓 known
+  - Interoperability between managed code and iOS/Android API: 🎓 known
 - Game development
-  - knity k
+  - knity: 🎓 known
 - Web development
-  - ASP.NET Core k
-  - Blazor k
-  - Razor Syntax k
-  - RESTful API development k
+  - ASP.NET Core: 🎓 known
+  - Blazor: 🎓 known
+  - Razor Syntax: 🎓 known
+  - RESTful API development: 🎓 known

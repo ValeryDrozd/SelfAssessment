@@ -1,122 +1,122 @@
 ## JavaScript
 
 - Language
-  - `Object` e
-  - `Function` e
-  - `Boolean` e
-  - `Number` e
-  - `BigInt` e
-  - `String` e
-  - `Symbol` e
-  - `Infinity` e
-  - `NaN` e
-  - `undefined` e
-  - `null` e
-  - `this` e
-  - `instanceof` e
-  - `...spread` e
-  - `...rest` e
-  - `typeof` e
-  - Destructuring e
-  - Generators u
-  - Iterators u
-  - Async generator u
-  - Async iterator u
-  - Chaining e
-  - Optional chaining e
-  - IIFE e
-  - Async IIFE e
-  - `global` e
-  - `globalThis` e
-  - `window` e
-  - Getters and setters e
-  - `__proto__` e
-  - `prototype` e
-  - Equality operators e
-  - Logical operators e
-  - Logical Assignment e
-  - Bitwise operators e
-  - Ternary operator e
-  - `void` e
-  - `yield` e
-  - `await` e
-  - Template literal e
-  - Strict mode u
-  - Hoisting e
-  - `delete` e
-  - `in` e
-  - `super` e
-  - `eval` e
-  - `static` e
-  - `Number.parseInt` e
-  - `Number.parseFloat` e
-  - Property descriptors u
-  - Sealing properties u
-  - Freezing properties u
-  - Computed properties u
-  - Instance class fields e
-  - Static class fields e
-  - Private class fields e
-  - Private class methods e
+  - `Object`: 🙋 explained
+  - `Function`: 🙋 explained
+  - `Boolean`: 🙋 explained
+  - `Number`: 🙋 explained
+  - `BigInt`: 🙋 explained
+  - `String`: 🙋 explained
+  - `Symbol`: 🙋 explained
+  - `Infinity`: 🙋 explained
+  - `NaN`: 🙋 explained
+  - `undefined`: 🙋 explained
+  - `null`: 🙋 explained
+  - `this`: 🙋 explained
+  - `instanceof`: 🙋 explained
+  - `...spread`: 🙋 explained
+  - `...rest`: 🙋 explained
+  - `typeof`: 🙋 explained
+  - Destructuring: 🙋 explained
+  - Generators: 🖐️ used
+  - Iterators: 🖐️ used
+  - Async generator: 🖐️ used
+  - Async iterator: 🖐️ used
+  - Chaining: 🙋 explained
+  - Optional chaining: 🙋 explained
+  - IIFE: 🙋 explained
+  - Async IIFE: 🙋 explained
+  - `global`: 🙋 explained
+  - `globalThis`: 🙋 explained
+  - `window`: 🙋 explained
+  - Getters and setters: 🙋 explained
+  - `__proto__`: 🙋 explained
+  - `prototype`: 🙋 explained
+  - Equality operators: 🙋 explained
+  - Logical operators: 🙋 explained
+  - Logical Assignment: 🙋 explained
+  - Bitwise operators: 🙋 explained
+  - Ternary operator: 🙋 explained
+  - `void`: 🙋 explained
+  - `yield`: 🙋 explained
+  - `await`: 🙋 explained
+  - Template literal: 🙋 explained
+  - Strict mode: 🖐️ used
+  - Hoisting: 🙋 explained
+  - `delete`: 🙋 explained
+  - `in`: 🙋 explained
+  - `super`: 🙋 explained
+  - `eval`: 🙋 explained
+  - `static`: 🙋 explained
+  - `Number.parseInt`: 🙋 explained
+  - `Number.parseFloat`: 🙋 explained
+  - Property descriptors: 🖐️ used
+  - Sealing properties: 🖐️ used
+  - Freezing properties: 🖐️ used
+  - Computed properties: 🖐️ used
+  - Instance class fields: 🙋 explained
+  - Static class fields: 🙋 explained
+  - Private class fields: 🙋 explained
+  - Private class methods: 🙋 explained
 - Statements
-  - `if` e
-  - `while` e
-  - `do..while` e
-  - `for` e
-  - `for..in` e
-  - `for..of` e
-  - `for await` e
-  - `throw` e
-  - `break` e
-  - `continue` e
-  - `import` e
-  - `export` e
-  - `label` u
-  - `try..catch` e
-  - `switch` e
-  - `class` e
-  - `extends` e
-  - `with` u
-  - `new` e
+  - `if`: 🙋 explained
+  - `while`: 🙋 explained
+  - `do..while`: 🙋 explained
+  - `for`: 🙋 explained
+  - `for..in`: 🙋 explained
+  - `for..of`: 🙋 explained
+  - `for await`: 🙋 explained
+  - `throw`: 🙋 explained
+  - `break`: 🙋 explained
+  - `continue`: 🙋 explained
+  - `import`: 🙋 explained
+  - `export`: 🙋 explained
+  - `label`: 🖐️ used
+  - `try..catch`: 🙋 explained
+  - `switch`: 🙋 explained
+  - `class`: 🙋 explained
+  - `extends`: 🙋 explained
+  - `with`: 🖐️ used
+  - `new`: 🙋 explained
 - Functions
-  - Arrow function e
-  - Async function e
-  - Function declaration e
-  - Function expression e
-  - Default parameters e
-  - Functional object e
-  - `Function.prototype.call` e
-  - `Function.prototype.bind` e
-  - `Function.prototype.apply` e
-  - `return` e
+  - Arrow function: 🙋 explained
+  - Async function: 🙋 explained
+  - Function declaration: 🙋 explained
+  - Function expression: 🙋 explained
+  - Default parameters: 🙋 explained
+  - Functional object: 🙋 explained
+  - `Function.prototype.call`: 🙋 explained
+  - `Function.prototype.bind`: 🙋 explained
+  - `Function.prototype.apply`: 🙋 explained
+  - `return`: 🙋 explained
 - Data structures
-  - `Array` e
-  - `Map` e
-  - `Set` e
-  - `WeakMap` e
-  - `WeakSet` e
-  - Typed arrays e
-  - Mixins u
-  - `Object.assign` e
+  - `Array`: 🙋 explained
+  - `Map`: 🙋 explained
+  - `Set`: 🙋 explained
+  - `WeakMap`: 🙋 explained
+  - `WeakSet`: 🙋 explained
+  - Typed arrays: 🙋 explained
+  - Mixins: 🖐️ used
+  - `Object.assign`: 🙋 explained
 - Standard classes and namespaces
-  - `Proxy` u
-  - `RegExp` e
-  - `Date` e
-  - `Math` e
-  - `Reflect` k
-  - `Error` e
-  - `Atomics` k
-  - `JSON` e
-  - `WeakRef` k
-  - `FinalizationRegistry` k
-  - `Intl` u
-  - `Promise` e
-  - `console` e
-  - Timers e
+  - `Proxy`: 🖐️ used
+  - `RegExp`: 🙋 explained
+  - `Date`: 🙋 explained
+  - `Math`: 🙋 explained
+  - `Reflect`: 🎓 known
+  - `Error`: 🙋 explained
+  - `Atomics`: 🎓 known
+  - `JSON`: 🙋 explained
+  - `WeakRef`: 🎓 known
+  - `FinalizationRegistry`: 🎓 known
+  - `Intl`: 🖐️ used
+  - `Promise`: 🙋 explained
+  - `console`: 🙋 explained
+  - Timers: 🙋 explained
 - Infrastructure
-  - V8 u
-  - Node.js u
-  - npm u
-  - prettier e
-  - MDN u
-  - TC39 k
+  - V8: 🖐️ used
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🙋 explained
+  - MDN: 🖐️ used
+  - TC39: 🎓 known
